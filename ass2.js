@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE-edge" />
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0" />
+    <title>DOCUMENT</title>
+  </head>
+  <body>
+    <h1>HELLO EVERYONE</h1>
+    <script>
+      const myarr [2,4,8,12]
+      myarr.pop();
+      myarr.push(18);
+      console.log(myarr);
+    </script>
+  </body>
+</html>
